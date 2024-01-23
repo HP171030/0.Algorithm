@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.Algorithm", "0.Algorithm\0.Algorithm.csproj", "{07773E45-DE96-4C42-B2D1-9F80041EE18D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.list", "01.list\01.list.csproj", "{4C37CE6C-7D8C-433C-A374-FD15E932F2BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{07773E45-DE96-4C42-B2D1-9F80041EE18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07773E45-DE96-4C42-B2D1-9F80041EE18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07773E45-DE96-4C42-B2D1-9F80041EE18D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C37CE6C-7D8C-433C-A374-FD15E932F2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C37CE6C-7D8C-433C-A374-FD15E932F2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C37CE6C-7D8C-433C-A374-FD15E932F2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C37CE6C-7D8C-433C-A374-FD15E932F2BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
