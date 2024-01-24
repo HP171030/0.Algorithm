@@ -3,23 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.Algorithm", "0.Algorithm\0.Algorithm.csproj", "{07773E45-DE96-4C42-B2D1-9F80041EE18D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0.Algorithm", "0.Algorithm\0.Algorithm.csproj", "{07773E45-DE96-4C42-B2D1-9F80041EE18D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.list", "01.list\01.list.csproj", "{4C37CE6C-7D8C-433C-A374-FD15E932F2BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.list", "01.list\01.list.csproj", "{4C37CE6C-7D8C-433C-A374-FD15E932F2BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LinkedList", "02.LinkedList\02.LinkedList.csproj", "{CE954F34-2FA6-4A0A-BC16-36D9EB45AC60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.LinkedList", "02.LinkedList\02.LinkedList.csproj", "{CE954F34-2FA6-4A0A-BC16-36D9EB45AC60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Stack", "03.Stack\03.Stack.csproj", "{DA601E76-D0C5-4E3E-B86D-B0D06FEECEF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Stack", "03.Stack\03.Stack.csproj", "{DA601E76-D0C5-4E3E-B86D-B0D06FEECEF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Queue", "04.Queue\04.Queue.csproj", "{1C2B6F83-5E53-40FC-8DE5-79213D48A6E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Queue", "04.Queue\04.Queue.csproj", "{1C2B6F83-5E53-40FC-8DE5-79213D48A6E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BinarySearchTree", "05.BinarySearchTree\05.BinarySearchTree.csproj", "{398BB33D-45BA-4AEF-B5E0-562FFA2B646A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.BinarySearchTree", "05.BinarySearchTree\05.BinarySearchTree.csproj", "{398BB33D-45BA-4AEF-B5E0-562FFA2B646A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Heap", "06.Heap\06.Heap.csproj", "{57405307-3182-467A-AE21-0B0C413886AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Heap", "06.Heap\06.Heap.csproj", "{57405307-3182-467A-AE21-0B0C413886AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.HashTable", "07.HashTable\07.HashTable.csproj", "{2323F287-486C-4287-AEAD-68F5F2BF179C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.HashTable", "07.HashTable\07.HashTable.csproj", "{2323F287-486C-4287-AEAD-68F5F2BF179C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.DesignTech", "08.DesignTech\08.DesignTech.csproj", "{1FEEFC92-22B0-4E6F-A624-227B94282839}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.DesignTech", "08.DesignTech\08.DesignTech.csproj", "{1FEEFC92-22B0-4E6F-A624-227B94282839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Sorting", "09.Sorting\09.Sorting.csproj", "{15C19AA3-3A3F-4434-A33E-4A99C7B0073A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Searching", "ConsoleApp1\10.Searching.csproj", "{D8C0E1FB-637F-4A00-BAA2-9D79374DA55A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{1FEEFC92-22B0-4E6F-A624-227B94282839}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FEEFC92-22B0-4E6F-A624-227B94282839}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FEEFC92-22B0-4E6F-A624-227B94282839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C19AA3-3A3F-4434-A33E-4A99C7B0073A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C19AA3-3A3F-4434-A33E-4A99C7B0073A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C19AA3-3A3F-4434-A33E-4A99C7B0073A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C19AA3-3A3F-4434-A33E-4A99C7B0073A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C0E1FB-637F-4A00-BAA2-9D79374DA55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C0E1FB-637F-4A00-BAA2-9D79374DA55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C0E1FB-637F-4A00-BAA2-9D79374DA55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C0E1FB-637F-4A00-BAA2-9D79374DA55A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
