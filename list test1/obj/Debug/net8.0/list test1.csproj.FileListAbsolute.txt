@@ -1,0 +1,15 @@
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\bin\Debug\net8.0\list test1.exe
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\bin\Debug\net8.0\list test1.deps.json
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\bin\Debug\net8.0\list test1.runtimeconfig.json
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\bin\Debug\net8.0\list test1.dll
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\bin\Debug\net8.0\list test1.pdb
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\obj\Debug\net8.0\list test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\obj\Debug\net8.0\list test1.AssemblyInfoInputs.cache
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\obj\Debug\net8.0\list test1.AssemblyInfo.cs
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\obj\Debug\net8.0\list test1.csproj.CoreCompileInputs.cache
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\obj\Debug\net8.0\list test1.sourcelink.json
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\obj\Debug\net8.0\list test1.dll
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\obj\Debug\net8.0\refint\list test1.dll
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\obj\Debug\net8.0\list test1.pdb
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\obj\Debug\net8.0\list test1.genruntimeconfig.cache
+C:\Users\블록\source\repos\00.CSharpAlgorithm1\list test1\obj\Debug\net8.0\ref\list test1.dll
