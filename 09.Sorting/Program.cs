@@ -10,7 +10,7 @@
         public static void SelectionSort(IList<int> list, int start, int end)
         {
             for (int i = start; i <= end; i++)
-            {
+            { 
                 int minIndex = i;
                 for (int j = i + 1; j <= end; j++)
                 {
